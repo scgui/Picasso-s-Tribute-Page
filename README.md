@@ -8,7 +8,7 @@
 
 >Exercício
 
-Projeto de reconstrução de um site de tributo do 0. <br>
+Projeto de construção de um site de tributo do 0. <br>
 
 [Clique aqui para acessar o site.](https://scgui.github.io/medicenter)
 
